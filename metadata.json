@@ -1,0 +1,6 @@
+{
+  "name": "SyncSpace - 실시간 공유 메모장 & 타이머",
+  "description": "로그인 없이 6자리 코드로 참여하는 실시간 동기화 메모장 및 포모도로 타이머 웹 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
